@@ -1,7 +1,7 @@
 <h1>- 👋 Hi, I’m @TechHien</h1>
 
 - 👀 I’m interested in Game Development for Roblox
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently revisiting Python
 - 📫 You can reach me on Discord, my username is turbo_racecar
 - 😄 Pronouns: He/Him or you could call me by my nickname "tech"
 - 🎮 I love gaming.
