@@ -1,10 +1,10 @@
 <h1>- 👋 Hi, I’m @TechHien</h1>
 
-- 👀 I’m interested in Game Development for Roblox
+- 👀 i wanna do cybersecurity
 - 🌱 I’m currently revisiting Python
-- 📫 You can reach me on Discord, my username is turbo_racecar
-- 😄 Pronouns: He/Him or you could call me by my nickname "tech"
-- 🎮 I love gaming.
+- 📫 You can reach me on Discord, my username is techhien
+- 😄 Pronouns: He/Him, call me Hien(pronounced "he-in"
+- 🎮 i like gemes
 - Contact me at techhien@gmail.com
 <!---
 TechHien/TechHien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
